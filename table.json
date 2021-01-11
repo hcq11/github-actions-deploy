@@ -1,0 +1,40 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "测试部",
+            "money": "白名单",
+            "address": 2,
+            "state": "",
+            "date": "2020-01-10",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 2,
+            "name": "研发部",
+            "money": "黑名单",
+            "address": 3,
+            "state": "",
+            "date": "2020-01-10",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "id": 3,
+            "name": "Atris产品组",
+            "money": "白名单",
+            "address": 5,
+            "state": "",
+            "date": "2020-01-11",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "id": 4,
+            "name": "测试专用组",
+            "money": "白名单",
+            "address": 12,
+            "state": "测试专用，勿删",
+            "date": "2020-03-20",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        }
+    ],
+    "pageTotal": 4
+}
